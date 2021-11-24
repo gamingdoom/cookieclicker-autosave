@@ -1,0 +1,14 @@
+﻿{
+  "async": false,
+  "cache": false,
+  "enabled": true,
+  "mods": [
+    {
+      "name": "cookieclicker-autosave",
+      "url": "https://gamingdoom.github.io/cookieclicker-autosave/cookieclicker-autosave.js",
+      "enabled": 1,
+      "extraDelay": 0,
+      "isLoaded": 1
+    }
+  ]
+}
