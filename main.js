@@ -4,7 +4,7 @@ function sleep(ms)
 {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
-async function save()
+(async function save()
 {
     while (true) 
     {
@@ -14,7 +14,6 @@ async function save()
         var blob=new Blob([text],{type:'text/plain;charset=utf-8'});
         saveAs(blob,filename+'.ccsave');
     }
-}
-save();
+})();
 
 
