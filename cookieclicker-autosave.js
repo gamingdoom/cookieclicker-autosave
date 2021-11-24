@@ -1,0 +1,1 @@
+Game.LoadMod('https://gamingdoom.github.io/cookieclicker-autosave/main.js')
