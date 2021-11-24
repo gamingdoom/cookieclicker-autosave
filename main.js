@@ -15,6 +15,6 @@ async function save()
         saveAs(blob,filename+'.ccsave');
     }
 }
-
+save();
 
 
